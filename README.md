@@ -20,8 +20,8 @@ Watch This on YouTube:
 <a href="https://codeforces.com/profile/dheeraj_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dheeraj_rao" height="60" width="80" /></a>
 </p>
 <h2 align="left">Contributors :</h2>
-<a href="https://github.com/dheerajrao20/Simple-Navigation-Bar/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=dheerajrao20/Simple-Navigation-Bar" />
+<a href="https://github.com/dheerajrao20/Responsive-Navigation-Bar/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=dheerajrao20/Responsive-Navigation-Bar" />
   </a>
   
   <h2>Preview...</h2>
